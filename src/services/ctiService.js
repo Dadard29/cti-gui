@@ -1,5 +1,5 @@
 const axios = require('axios').default;
-const host = "http://localhost:8080";
+const host = "https://cti-api.dadard.fr";
 
 const groupReplace = "{{group}}";
 const toolReplace = "{{tool}}";
