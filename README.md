@@ -1,24 +1,24 @@
-# threat_intelligence_gui
+# CTI GUI
 
-## Project setup
+A Web page connected to the CTI API, using VueJS.
+
+## Docs
+
+I'm using [Bootstrap](https://getbootstrap.com/) for the HTML.
+
+For the graph/tree visualisation, i'm using [G6](https://g6.antv.vision/en).
+
+The HTTP calls are done with [Axios](https://github.com/axios/axios).
+
+## Usage
+
+### Libraries
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Run
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
